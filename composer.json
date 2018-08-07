@@ -1,0 +1,40 @@
+{
+    "name": "serieseight/country-detect",
+    "description": "Country detect plugin for Craft CMS ^3.0.",
+    "type": "craft-plugin",
+    "version": "0.1",
+    "keywords": [
+        "craft",
+        "cms",
+        "craftcms",
+        "craft-plugin",
+        "country detect"
+    ],
+    "support": {
+        "docs": "https://github.com/serieseight/country-detect/blob/master/README.md",
+        "issues": "https://github.com/serieseight/country-detect/issues"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Series Eight",
+            "homepage": "https://serieseight.com/"
+        }
+    ],
+    "require": {
+        "craftcms/cms": "^3.0.0-RC1"
+    },
+    "autoload": {
+        "psr-4": {
+          "serieseight\\countrydetect\\": "src/"
+        }
+    },
+    "extra": {
+        "name": "Country Detect",
+        "handle": "country-detect",
+        "hasCpSettings": false,
+        "hasCpSection": false,
+        "changelogUrl": "https://raw.githubusercontent.com/serieseight/country-detect/master/CHANGELOG.md",
+        "class": "serieseight\\countrydetect\\CountryDetect"
+    }
+}
