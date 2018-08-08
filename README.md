@@ -28,6 +28,7 @@ Built by [Series Eight](https://serieseight.com/).
 
 Based on [Country Detect](https://github.com/madebymutual/Country-Detect) by [Mutual](https://github.com/madebymutual).
 
+
 ---
 
 <img src="resources/img/plugin-logo.png" width="180">
