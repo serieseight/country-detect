@@ -1,3 +1,5 @@
+<img src="https://s3-us-west-2.amazonaws.com/plugin-icons.craftcms/country-detect.svg?1533718264"width="180">
+
 # Country Detect plugin for Craft CMS 3.x
 
 Country detect plugin for Craft CMS 3.x. For Country Detect to work, your website must be going through Cloudflare. On your domain's settings screen go to Network and ensure IP Geolocation is turned on.
