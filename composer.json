@@ -2,7 +2,7 @@
     "name": "serieseight/country-detect",
     "description": "Country detect plugin for Craft CMS ^3.0.",
     "type": "craft-plugin",
-    "version": "0.1",
+    "version": "1.0.1",
     "keywords": [
         "craft",
         "cms",
