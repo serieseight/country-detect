@@ -24,7 +24,9 @@ To install the plugin, follow these instructions.
 
 `{{ craft.countryDetect.country }}`
 
-Brought to you by [Series Eight](https://serieseight.com/)
+Built by [Series Eight](https://serieseight.com/).
+
+Based on [Country Detect](https://github.com/madebymutual/Country-Detect) by [Mutual](https://github.com/madebymutual).
 
 ---
 
