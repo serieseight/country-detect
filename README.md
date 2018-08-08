@@ -1,4 +1,4 @@
-<img src="https://s3-us-west-2.amazonaws.com/plugin-icons.craftcms/country-detect.svg?1533718264" width="150">
+<img src="https://s3-us-west-2.amazonaws.com/plugin-icons.craftcms/country-detect.svg?1533718264" width="100">
 
 # Country Detect plugin for Craft CMS 3.x
 
