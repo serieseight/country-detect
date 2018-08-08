@@ -33,4 +33,4 @@ Based on [Country Detect](https://github.com/madebymutual/Country-Detect) by [Mu
 
 ---
 
-<img src="resources/img/plugin-logo.png" width="180">
+<a href="https://serieseight.com" target="_blank" <img src="resources/img/plugin-logo.png" width="180"></a>
