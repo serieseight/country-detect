@@ -7,6 +7,7 @@ Country detect plugin for Craft CMS 3.x. For Country Detect to work, your websit
 ## Requirements
 
 This plugin requires Craft CMS 3.0.0-beta.23 or later.
+Your website must be going through Cloudflare.
 
 ## Installation
 
